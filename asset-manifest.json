@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chat-engine/static/css/main.3dbeed22.chunk.css",
-    "main.js": "/chat-engine/static/js/main.b18faef4.chunk.js",
-    "main.js.map": "/chat-engine/static/js/main.b18faef4.chunk.js.map",
+    "main.js": "/chat-engine/static/js/main.fb4d1d55.chunk.js",
+    "main.js.map": "/chat-engine/static/js/main.fb4d1d55.chunk.js.map",
     "runtime-main.js": "/chat-engine/static/js/runtime-main.ceb64af6.js",
     "runtime-main.js.map": "/chat-engine/static/js/runtime-main.ceb64af6.js.map",
     "static/css/2.f94bdb3a.chunk.css": "/chat-engine/static/css/2.f94bdb3a.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.f94bdb3a.chunk.css",
     "static/js/2.6904de39.chunk.js",
     "static/css/main.3dbeed22.chunk.css",
-    "static/js/main.b18faef4.chunk.js"
+    "static/js/main.fb4d1d55.chunk.js"
   ]
 }
